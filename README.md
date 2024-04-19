@@ -10,6 +10,6 @@ add your own .env file from env-copy and add your db\
 php artisan key: generate\
 php artisan serve
 
-For frontend:
+For frontend:\
 npm i\
 npm run dev
