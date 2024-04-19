@@ -4,7 +4,7 @@ We have created the frontend on Next.js and backend on Laravel
 
 #To run:
 
-For backend: 
+For backend:\ 
 composer install\
 add your own .env file from env-copy and add your db\
 php artisan key: generate\
